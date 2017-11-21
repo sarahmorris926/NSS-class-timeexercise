@@ -35,7 +35,7 @@ console.log("I am: " + myAgeInSeconds + " seconds old");
 // If I am older than some number, log "I am wise"
 // If not, log "I am green"
 
-if (myAgeInSeconds > 700000000 ) {
+if (myAgeInSeconds > 700000000) {
   console.log("I am wise");
 } else {
   console.log("I am green");
